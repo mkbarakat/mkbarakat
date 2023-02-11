@@ -5,7 +5,7 @@
 
 #### Full Stack developer/ Software Engineer / Data Engineer
 
-##### Aspiring full-stack developer with experience as a data engineer and team leader. Skilled in software development, data analysis, and annotation. Currently pursuing a Master's in Software Engineering to further boost my tech and leadership abilities. Driven to deliver top-notch results, tackle tough challenges, and contribute to project success through my technical and leadership skills.
+##### Aspiring full-stack developer with experience as a data engineer and team leader. Skilled in software development, data analysis, and annotation. Currently doing a Master's in Software Engineering to further boost my tech and leadership abilities. Driven to deliver top-notch results, tackle tough challenges, and contribute to project success through my technical and leadership skills.
 
 ## Skills:
 <p align="center">
