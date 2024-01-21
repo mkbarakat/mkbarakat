@@ -1,7 +1,7 @@
 ### Hi there 👋, Mohammed Barakat
 
 
-![Full Stack developer/ Software Engineer / Data Engineer]([https://www.anchorsoftacademy.com/media/courseimg/fullstack-courser-banner_2VLJ5A6.jpg](https://schportalmedia.s3.eu-west-2.amazonaws.com/courseimg/fullstack-courser-banner_2VLJ5A6.jpg))
+![Full Stack developer/ Software Engineer / Data Engineer](https://media.geeksforgeeks.org/wp-content/uploads/20230427170658/10-Reasons-Why-You-Should-Become-A-Software-Engineer-(1).webp)
 
 #### Full Stack developer/ Software Engineer / Data Engineer
 
